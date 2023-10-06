@@ -1,6 +1,7 @@
 # Desafio Classificador de Nível de Herói
 
 ## Herói 
+![Lappland_Elite_2](https://github.com/naillath/desafio-do-heroi/assets/126177239/8aa90d6a-6f62-41e3-bdc3-7c3da5002f55)
 <!-- Certifique-se de substituir "link_da_imagem_do_heroi.png" pelo URL da imagem do seu herói -->
 
 ## Descrição

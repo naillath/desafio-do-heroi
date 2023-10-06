@@ -22,9 +22,10 @@ Classifica o nível do herói com base nas seguintes regras:
 
 ## Uso
 Clone este repositório para o seu ambiente local.
-bash
-Copy code
+
+```
 git clone https://github.com/naillath/desafio-do-heroi.git
+```
 
 ## Execute o arquivo classificador_heroi.js
 

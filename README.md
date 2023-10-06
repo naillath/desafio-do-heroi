@@ -11,12 +11,12 @@ Este é um simples projeto em JavaScript que classifica o nível de um herói co
 Armazena o nome e a quantidade de experiência (XP) de um herói.
 Classifica o nível do herói com base nas seguintes regras:
 
-- Se XP for menor do que 1.000, o herói é classificado como Ferro.
+- Se XP for igual ou abaixo de 1.000, o herói é classificado como Ferro.
 - Se XP estiver entre 1.001 e 2.000, o herói é classificado como Bronze.
-- Se XP for entre 2.001 e 3.000, o herói é classificado como Prata.
-- Se XP for entre 3.001 e 4.000, o herói é classificado como Ouro.
-- Se XP for entre 4.001 e 5.000, o herói é classificado como Platina.
-- Se XP for entre 5.001 e 8.000, o herói é classificado como Diamante.
+- Se XP estiver entre 2.001 e 3.000, o herói é classificado como Prata.
+- Se XP estiver entre 3.001 e 4.000, o herói é classificado como Ouro.
+- Se XP estiver entre 4.001 e 5.000, o herói é classificado como Platina.
+- Se XP estiver entre 5.001 e 8.000, o herói é classificado como Diamante.
 - Se XP estiver entre 9.001 e 10.000, o herói é classificado como Imortal.
 - Se XP for maior ou igual a 10.001, o herói é classificado como Radiante.
 
